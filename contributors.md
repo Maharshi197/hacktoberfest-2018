@@ -22,3 +22,5 @@
 - Place: Ahmedabad, Gujarat, India
 - Bio: Human with a desire for development
 - GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
+
+### Maharshi Sharma
